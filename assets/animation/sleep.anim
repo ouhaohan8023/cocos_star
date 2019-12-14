@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sleep",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.5166666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "fe88c830-8b44-454c-aca3-9be47f0831c4"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "914f4c1b-5495-4042-84e7-1e5964a16d79"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "9c2f8290-730a-45fc-b2a3-27f9b53838da"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "e9d79089-44fc-43cf-b88c-129e9b4e10fa"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

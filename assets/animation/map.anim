@@ -1,0 +1,85 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "map",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.8333333333333334,
+  "sample": 60,
+  "speed": 0.1,
+  "wrapMode": 2,
+  "curveData": {
+    "paths": {
+      "road1": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                512,
+                0
+              ],
+              "motionPath": [
+                [
+                  288,
+                  216,
+                  379,
+                  252,
+                  189,
+                  178
+                ],
+                [
+                  -2,
+                  -148,
+                  126,
+                  -148,
+                  -136,
+                  -148
+                ],
+                [
+                  -283,
+                  200,
+                  -189,
+                  163,
+                  -376,
+                  237
+                ]
+              ],
+              "curve": "linear"
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                -512,
+                0
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      },
+      "road2": {
+        "props": {
+          "position": [
+            {
+              "frame": 0,
+              "value": [
+                690,
+                -214
+              ],
+              "motionPath": []
+            },
+            {
+              "frame": 0.8333333333333334,
+              "value": [
+                -589,
+                -220
+              ],
+              "motionPath": []
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
